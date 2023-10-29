@@ -2,9 +2,8 @@
 
 ## My Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thalisrocha&repo=Kaggle-cmri-classification)](https://github.com/thalisrocha/Kaggle-cmri-classification)
 
-[![Project Name 1](heart.gif)](https://github.com/thalisrocha/Kaggle-cmri-classification)
+[![CMRI](heart.gif)](https://github.com/thalisrocha/Kaggle-cmri-classification)
 
 
 <!--
