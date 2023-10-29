@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+## My Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thalisrocha&repo=Kaggle-cmri-classification)](https://github.com/thalisrocha/Kaggle-cmri-classification)
+
+
 <!--
 **thalisrocha/thalisrocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
