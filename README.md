@@ -7,6 +7,6 @@ Welcome to my GitHub profile!
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thalisrocha&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/thalisrocha/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thalisrocha&theme=default#gh-light-mode-only&layout=compact)](https://github.com/thalisrocha/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thalisrocha&layout=compact&theme=light#gh-light-mode-only)](https://github.com/thalisrocha/github-readme-stats)
 
 
