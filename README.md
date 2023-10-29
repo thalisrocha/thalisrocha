@@ -4,7 +4,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thalisrocha&repo=Kaggle-cmri-classification)](https://github.com/thalisrocha/Kaggle-cmri-classification)
 
-[![Project Name 1](https://media.giphy.com/media/S9E88u47Lxc3uqhsse/giphy.gif)](https://github.com/thalisrocha/Kaggle-cmri-classification)
+[![Project Name 1](heart.gif)](https://github.com/thalisrocha/Kaggle-cmri-classification)
 
 
 <!--
