@@ -21,3 +21,6 @@ Welcome to my GitHub profile! I'm a double-degree student at Institut Polytechni
 <p align="center">
   <img src="giphy.gif" alt="Fun Tech GIF" width="300px">
 </p>
+
+<br />
+
