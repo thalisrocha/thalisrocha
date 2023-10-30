@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a double-degree student at Institut Polytechni
 <br />
 
 <p align="center">
-  <img src="giphy.gif" alt="Fun Tech GIF" width="200px">
+  <img src="giphy.gif" alt="Fun Tech GIF" width="250px">
 </p>
 
 <br />
