@@ -24,7 +24,11 @@ Welcome to my GitHub profile! I'm a double-degree student at Institut Polytechni
 ### Kernel Methods in Machine Learning
 - Diving deep into **kernel methods** and their wide-ranging applications, studying everything from the theory behind **kernels** and **Hilbert spaces** to practical applications and the nexus between kernel methods and neural networks.
 
+<br />
+
 Feel free to reach out if you're walking down the same road, or just hit me up if you're interested in sharing ideas and collaborating on projects!
+
+<br />
 
 <a href="https://github.com/thalisrocha/github-readme-stats#gh-dark-mode-only">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=thalisrocha&show_icons=true&hide_rank=true&theme=dark" alt="Thalis's GitHub stats-Dark" height="180em"/>
