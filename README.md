@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! I'm a double-degree student at Institut Polytechnique de Paris specializing in Artificial Intelligence with a solid background in Image Processing and Data Science from my first year of Master's studies. Super stoked about using AI and the latest tech to tackle real-world problems and push the boundaries!
 
+<br />
+
 <p align="center">
   <img src="giphy.gif" alt="Fun Tech GIF" width="200px">
 </p>
