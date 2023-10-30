@@ -10,6 +10,47 @@ Welcome to my GitHub profile! I'm a double-degree student at Institut Polytechni
 
 <br />
 
+## Highlighted Projects 🌟
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/thalisrocha/NGD_Word_Prediction">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=thalisrocha&repo=NGD_Word_Prediction" alt="NGD_Word_Prediction" />
+          <br />
+          NGD_Word_Prediction
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/thalisrocha/app-vlc-receiver">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=thalisrocha&repo=app-vlc-receiver" alt="app-vlc-receiver" />
+          <br />
+          app-vlc-receiver
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/thalisrocha/Kaggle-cmri-classification">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=thalisrocha&repo=Kaggle-cmri-classification" alt="Kaggle-cmri-classification" />
+          <br />
+          Kaggle-cmri-classification
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/thalisrocha/Multimedia-set-top-box">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=thalisrocha&repo=Multimedia-set-top-box" alt="Multimedia-set-top-box" />
+          <br />
+          Multimedia-set-top-box
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br />
+
 ## What I'm Currently Learning 🚀
 
 ### Deep Learning and Neural Networks
