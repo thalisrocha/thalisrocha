@@ -9,6 +9,8 @@ Welcome to my GitHub profile! I'm a double-degree student at Institut Polytechni
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=thalisrocha&show_icons=true&hide_rank=true&theme=default" alt="Thalis's GitHub stats-Light" height="180em"/>
 </a>
 
+<br />
+
 <a href="https://github.com/thalisrocha#gh-dark-mode-only">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalisrocha&layout=compact&theme=dark" alt="Thalis Rocha's Top Languages in Dark Mode" height="180em"/>
 </a>
@@ -16,6 +18,8 @@ Welcome to my GitHub profile! I'm a double-degree student at Institut Polytechni
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalisrocha&layout=compact&theme=light" alt="Thalis Rocha's Top Languages in Light Mode" height="180em"/>
 </a>
 
+<br />
+
 <p align="center">
-  <img src="giphy.gif" alt="Fun Tech GIF">
+  <img src="giphy.gif" alt="Fun Tech GIF" width="300px">
 </p>
