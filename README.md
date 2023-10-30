@@ -16,7 +16,4 @@ Welcome to my GitHub profile! I'm a double-degree student at Institut Polytechni
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalisrocha&layout=compact&theme=light" alt="Thalis Rocha's Top Languages in Light Mode" height="180em"/>
 </a>
 
-<p align="center">
-  <img src="https://giphy.com/embed/NUrDobznj532TbNtYn" alt="Description of GIF">
-</p>
 
