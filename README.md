@@ -16,5 +16,6 @@ Welcome to my GitHub profile! I'm a double-degree student at Institut Polytechni
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalisrocha&layout=compact&theme=light" alt="Thalis Rocha's Top Languages in Light Mode" height="180em"/>
 </a>
 
+<iframe src="https://giphy.com/embed/NUrDobznj532TbNtYn" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/billions-showtime-episode-4-season-7-NUrDobznj532TbNtYn">via GIPHY</a></p>
 
 
