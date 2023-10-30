@@ -39,12 +39,22 @@ Welcome to my GitHub profile! I'm a double-degree student at Institut Polytechni
         </a>
       </td>
       <td align="center">
+        <a href="https://github.com/V-kr0pt/Hyperspectral_image_super_resolution">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=V-kr0pt&repo=Hyperspectral_image_super_resolution" alt="Hyperspectral_image_super_resolution" />
+          <br />
+          Hyperspectral_image_super_resolution
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
         <a href="https://github.com/thalisrocha/Multimedia-set-top-box">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=thalisrocha&repo=Multimedia-set-top-box" alt="Multimedia-set-top-box" />
           <br />
           Multimedia-set-top-box
         </a>
       </td>
+      <td></td> <!-- Empty cell to maintain the layout -->
     </tr>
   </tbody>
 </table>
