@@ -1,12 +1,34 @@
 # Hi, I'm Thalis! 👋
 
-Welcome to my GitHub profile! I'm a double-degree student at Institut Polytechnique de Paris specializing in Artificial Intelligence with a solid background in Image Processing and Data Science from my first year of Master's studies. Super stoked about using AI and the latest tech to tackle real-world problems and push the boundaries!
+I'm an **AI engineer** working on generative-image systems at a Paris-based GenAI startup — the unglamorous half of the job being everything between a model that works in a notebook and one that serves real users: inference on GPUs, cold starts, queues, failure modes, cost. Double-degree graduate of **Institut Polytechnique de Paris** (MSc, Artificial Intelligence), with a background in image processing and data science.
+
+Most of what I do these days is shipping diffusion and image-editing pipelines to production and keeping them fast, affordable and EU-compliant.
 
 <br />
 
 <p align="center">
   <img src="giphy.gif" alt="Fun Tech GIF" width="250px">
 </p>
+
+<br />
+
+## What I Work On 🛠️
+
+### Generative image pipelines
+- Text-to-image, **inpainting** and **masked editing** in production — the hard part is rarely the model, it's mask geometry, seam blending and preserving what the user didn't ask you to change.
+- Interactive **segmentation** to drive editing workflows, and raster-to-vector conversion.
+
+### Serving models on GPUs
+- Deploying image models to **A100-class GPUs** across cloud providers, and fighting the three things that actually decide whether it works: **cold starts**, **autoscaling on the right signal**, and **concurrency limits**.
+- Choosing honestly between **self-hosted GPUs and vendor APIs** — usually by computing the break-even point rather than by taste.
+
+### Backend architecture for async AI work
+- Long-running GPU jobs don't fit request/response. Building the **job orchestration** around them: durable queues, status and progress reporting, cancellation, and reconciling state between services without losing jobs.
+
+### EU data residency
+- Working under **GDPR / EU-residency constraints**, where the interesting question is which models can legally serve which inference, and what you build when the best model can't.
+
+**Toolbox:** Python · TypeScript · PyTorch · FastAPI · Node · PostgreSQL · Docker · Kubernetes · Azure · OVHcloud
 
 <br />
 
@@ -61,23 +83,7 @@ Welcome to my GitHub profile! I'm a double-degree student at Institut Polytechni
 
 <br />
 
-## What I'm Currently Learning 🚀
-
-### Deep Learning and Neural Networks
-- Delving into the nuts and bolts of **Convolutional Neural Networks (CNNs)**, **Recurrent Neural Networks (RNNs)**, and **Multi-Layer Perceptrons (MLPs)**.
-
-### Probabilistic Models and Decision Processes
-- Getting hands-on with **Bayesian networks**, **Markov Decision Processes**, **dynamic programming**, **online algorithms**, and exploring advanced concepts in decision-making strategies under uncertainty.
-
-### Multithreading and GPU Architecture
-- Sharpening my skills in **multithreaded programming**, understanding the intricacies of **GPU architectures**, and getting more practice with **TensorFlow** and **PyTorch**.
-
-### Kernel Methods in Machine Learning
-- Diving deep into **kernel methods** and their wide-ranging applications, studying everything from the theory behind **kernels** and **Hilbert spaces** to practical applications and the nexus between kernel methods and neural networks.
-
-<br />
-
-Feel free to reach out if you're walking down the same road, or just hit me up if you're interested in sharing ideas and collaborating on projects!
+Always happy to talk generative imaging, GPU serving, or the economics of running models in Europe — reach out if you're working on the same problems or just want to trade ideas.
 
 <br />
 
